@@ -1,0 +1,25 @@
+head {font-family: "Cinzel", serif;}
+body { color: rgb(0, 0, 0);
+    background: rgba(24, 255, 178, 0.925);
+    margin: 0px;
+    font-family: "Rubik Vinyl", system-ui;
+ }
+ 
+ 
+ header {border-bottom: solid 2px rgb(0, 121, 80);
+ padding: 10px;
+ font-size: 22px;
+ color: rgb(0, 121, 80);
+ font-family: "Cinzel", system-ui;
+ }
+ 
+ 
+ section {background: rgb(9, 150, 131);
+ padding-bottom: 80px;
+ padding-top: 80px;
+ padding-left: 150px;
+ }
+  h1 {font-size: 40px;}
+
+  p {font-size: 20px;}
+
